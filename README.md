@@ -48,14 +48,9 @@
 
 ###
 
-<div align="center" dir="auto">
-      <a href="https://github.com/anuraghazra/convoychat">
-        <img height="200" align="center" src="https://camo.githubusercontent.com/fa56e9e342bfaf96dd591af94d995570800d36344f0a0cdb55543afd4c5e45d1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d432d4272656e6572266c61796f75743d636f6d70616374266c616e67735f636f756e743d3426636172645f77696474683d333530267468656d653d7261646963616c" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=C-Brener&amp;layout=compact&amp;langs_count=4&amp;card_width=350&amp;theme=radical" style="max-width: 100%;">
-      </a> 
-      <br>
-      <a href="https://github.com/C-Brener/github-readme-stats">
-      <img height="200" align="center" src="https://camo.githubusercontent.com/26cc52718b13d73f87014ce3c3e4179ecd2fef92619cb99d8e2155396b41dd27/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d432d4272656e6572266c61796f75743d636f6d70616374267468656d653d7261646963616c26636172645f77696474683d343835" data-canonical-src="https://github-readme-stats.vercel.app/api?username=C-Brener&amp;layout=compact&amp;theme=radical&amp;card_width=485" style="max-width: 100%;">
-    </a>   
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Erik-martins99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erik-martins99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
